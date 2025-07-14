@@ -1,4 +1,8 @@
-# AI Todo App - Developer Documentation
+# AI Todo App - Developer Documentation (DEPRECATED)
+
+## Important Notice
+
+> **DEPRECATED**: This version of the application is now deprecated. A new version will replace it soon. This documentation is kept for reference purposes only.
 
 ## Overview
 
@@ -8,6 +12,7 @@ The AI Todo App is a React-based web application that allows users to create, ma
 
 ```
 ai-todo-app/
+├── archived/            # Deprecated version files
 ├── public/              # Static assets
 │   ├── index.html       # HTML entry point
 │   ├── manifest.json    # Web app manifest

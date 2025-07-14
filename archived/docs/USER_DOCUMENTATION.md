@@ -1,4 +1,8 @@
-# AI Todo App - User Documentation
+# AI Todo App: User Documentation (DEPRECATED)
+
+## Important Notice
+
+> **DEPRECATED**: This version of the application is now deprecated. A new version will replace it soon. This documentation is kept for reference purposes only.
 
 ## Introduction
 

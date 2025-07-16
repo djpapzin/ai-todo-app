@@ -3,6 +3,9 @@
 ## 🚀 Live Demo
 [View Live Application](https://exquisite-kitsune-286948.netlify.app)
 
+## 🎥 Video Walkthrough
+[Watch the Project Demo on Loom](https://www.loom.com/share/96919aa4404949a2a0c1c1a55b7fb73b)
+
 ![AI Todo App Demo](./docs/assets/demo.PNG)
 
 ### 📜 Project History

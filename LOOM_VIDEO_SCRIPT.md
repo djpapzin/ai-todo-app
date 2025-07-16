@@ -35,7 +35,7 @@
 
 "Now the technical approach:
 
-**Architecture**: I chose to build this with vanilla JavaScript and a single `TodoApp` class to demonstrate strong foundational skills without relying on a framework. This approach keeps the application lightweight and highly performant, while the class-based structure ensures the code is organized and scalable.
+**Architecture**: To start the project, I gave the AI agent the assessment PDF and a simple prompt: 'help me complete the assessment.' The agent then chose to build the application with vanilla JavaScript, demonstrating its ability to select an appropriate tech stack. It structured the code into a single `TodoApp` class, which keeps the application lightweight and maintainable while showcasing strong foundational coding principles.
 
 **Translation System**: For the AI translation, I integrated the MyMemory API. The key innovation here is a client-side caching mechanism. After the first translation of a task, the result is stored in `localStorage`. This means subsequent language switches are instantaneous, providing a seamless user experience and minimizing redundant API calls.
 

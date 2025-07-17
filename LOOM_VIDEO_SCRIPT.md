@@ -13,7 +13,7 @@
 ---
 
 ### **[INTRO - 30 seconds]**
-"Hi, I'mDJ Papzin, and this is my AI-powered To-Do App. This project showcases a full development cycle, starting from an initial React version, which is now archived, to this final, enhanced vanilla JavaScript application. I'll walk you through its advanced features, the technical decisions behind them, and how I used AI tools to build it. For this assessment, I used **Bolt.new** as my primary AI development partner. Unlike a simple code completion tool, Bolt is a full-fledged AI agent that works within a browser-based development environment. This allowed me to move beyond basic UI and build a full-stack application by prompting the AI to handle everything from the frontend code to integrations like the translation API. It was a great way to explore a more agentic approach to AI-assisted development."
+"Hi, I'm DJ Papzin, and this is my AI-powered To-Do App. This project showcases a full development cycle, starting from an initial React version,which is now archived, to this final, enhanced vanilla JavaScript application. I'll walk you through its advanced features, the technical decisions behind them, and how I used AI tools to build it. For this assessment, I used **Bolt.new** as my primary AI development partner. Unlike a simple code completion tool, Bolt is a full-fledged AI agent that works within a browser-based development environment. This allowed me to move beyond basic UI and build a full-stack application by prompting the AI to handle everything from the frontend code to integrations like the translation API. It was a great way to explore a more agentic approach to AI-assisted development."
 
 ---
 
